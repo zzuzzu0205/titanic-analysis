@@ -1,2 +1,2 @@
 # titanic-analysis
-Titanic survival prediction with EDA, modeling and insights"
+Titanic survival prediction with EDA, modeling and insights
